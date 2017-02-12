@@ -1,0 +1,11 @@
+D:\Programs\delegate\bin\Debug\@delegate.exe.config
+D:\Programs\delegate\bin\Debug\@delegate.exe
+D:\Programs\delegate\bin\Debug\@delegate.pdb
+D:\Programs\delegate\bin\Debug\ClassLibrary1.dll
+D:\Programs\delegate\bin\Debug\ClassLibrary1.pdb
+D:\Programs\delegate\obj\Debug\delegate.csprojResolveAssemblyReference.cache
+D:\Programs\delegate\obj\Debug\delegate.Form1.resources
+D:\Programs\delegate\obj\Debug\delegate.Properties.Resources.resources
+D:\Programs\delegate\obj\Debug\delegate.csproj.GenerateResource.Cache
+D:\Programs\delegate\obj\Debug\@delegate.exe
+D:\Programs\delegate\obj\Debug\@delegate.pdb
