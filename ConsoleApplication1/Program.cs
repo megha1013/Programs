@@ -4,19 +4,23 @@ class abc
 {
     public static void Main()
     {
-        int i, j;
-        for(i=1;i<=4;i++)
+        int rowCount = 1;
+        int j;
+        Console.WriteLine("enter no of rows:");
+        int rows =Convert.ToInt32( Console.ReadLine());
+        for(int i=rows;i>0;i--)
         {
-            for(j=1;j<=7-i;j++)
+            for(j=1;j<=i;j++)
             Console.Write(" ");
 
-            for (j = 1; j <= i; j++)
+            for (j = 1; j <= rowCount; j++) {
+                Console.Write((Char)(rowCount + 64) + " ");
+            }
+            rowCount++;                
+            Console.WriteLine();
             
-                Console.Write((Char)(i+64) + "");
-                Console.WriteLine();
-            
-            Console.ReadKey();
 
         }
+        Console.ReadKey();
     }
 }
